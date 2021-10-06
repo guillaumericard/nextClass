@@ -1,0 +1,3 @@
+/Users/guillaumericard/CLionProjects/nextClass/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/guillaumericard/CLionProjects/nextClass/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/guillaumericard/CLionProjects/nextClass/cmake-build-debug/CMakeFiles/nextClass.dir
