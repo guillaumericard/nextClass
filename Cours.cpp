@@ -20,6 +20,9 @@ void Cours::setLocal(string _local) {this->local = _local;}
 void Cours::setJour(string _jour) {this->jour = _jour;}
 void Cours::setHeure(string _heure) {this->heure = _heure;}
 void Cours::setMinute(string _minute) {this->minute = _minute;}
+string Cours::getJour(){return this->jour;}
+string Cours::getHeure(){return this->heure;}
+string Cours::getMinute(){return this->minute;}
 
 void Cours::printCours() {
     std::cout << "NOM COURS : " << this->nom << std::endl;

@@ -18,6 +18,9 @@ public:
     void setJour(string _jour);
     void setHeure(string _heure);
     void setMinute(string _minute);
+    string getJour();
+    string getHeure();
+    string getMinute();
     void printCours();
 private:
     string nom;
