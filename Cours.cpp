@@ -25,7 +25,7 @@ string Cours::getHeure(){return this->heure;}
 string Cours::getMinute(){return this->minute;}
 
 void Cours::printCours() {
-    std::cout << "NOM COURS : " << this->nom << std::endl;
+    std::cout << "\nNOM COURS : " << this->nom << std::endl;
     std::cout << "SIGLE COURS : " << this->sigle << std::endl;
     std::cout << "LOCAL COURS : " << this->local << std::endl;
     std::cout << "JOURNÉE COURS : " << this->jour << std::endl;

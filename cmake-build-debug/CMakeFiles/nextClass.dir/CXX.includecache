@@ -6,29 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/guillaumericard/CLionProjects/nextClass/Cours.h
-string
--
-
-/Users/guillaumericard/CLionProjects/nextClass/lectureFichier.h
-string
--
-vector
--
-Cours.h
-/Users/guillaumericard/CLionProjects/nextClass/Cours.h
-
-/Users/guillaumericard/CLionProjects/nextClass/main.cpp
+/Users/guillaumericard/CLionProjects/nextClass/Cours.cpp
 iostream
 -
-ctime
--
-string
--
 Cours.h
 /Users/guillaumericard/CLionProjects/nextClass/Cours.h
-lectureFichier.h
-/Users/guillaumericard/CLionProjects/nextClass/lectureFichier.h
-map
+
+/Users/guillaumericard/CLionProjects/nextClass/Cours.h
+string
 -
 
