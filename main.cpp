@@ -6,7 +6,7 @@
 #include <map>
 
 
-#define FILE_PATH "../data/ListeCours"
+#define FILE_PATH "./data/ListeCours"
 
 #define DIMANCHE 0
 #define LUNDI 1
